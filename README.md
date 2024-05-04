@@ -18,7 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![Alt text](initial.png?raw=true "Title")
 
 Then, upload the image to get the background removed!
+This is a sample image
+![Alt text](start.jpeg?raw=true "Title")
 
-![Alt text](output.png?raw=true "Title")
+
+![Alt text](end.png?raw=true "Title")
 
 From there, you can right-click to download the file.
