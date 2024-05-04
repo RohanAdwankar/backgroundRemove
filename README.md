@@ -1,3 +1,5 @@
+This task was created for an interview task but is a functional Next.js application that can be used to remove the background of an image.
+
 https://github.com/RohanAdwankar/backgroundRemove/assets/39285979/df7f8940-dfd1-414c-8aaa-cc670058004f
 
 ## Getting Started
