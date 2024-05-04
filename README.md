@@ -8,10 +8,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-
-https://github.com/RohanAdwankar/backgroundRemove/assets/39285979/bd8533f2-aa1e-411d-976b-113397a6e228
-
-
 # or
 yarn dev
 # or
