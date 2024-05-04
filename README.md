@@ -15,7 +15,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the initial page.
 
-![Alt text](initial.png?raw=true "Title")
+![Alt text](intial.png?raw=true "Title")
 
 Then, upload the image to get the background removed!
 This is a sample image
